@@ -7,11 +7,4 @@
 
 import SwiftUI
 
-@main
-struct KidModeApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+
